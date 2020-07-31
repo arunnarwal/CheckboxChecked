@@ -1,0 +1,340 @@
+{
+  "datasets": [
+    {
+      "id": 329,
+      "name": "10 day weather forecast (ECMWF)",
+      "status": "",
+      "offering_status": "Commercial Use - Visualization",
+      "description_short": "10-day ahead weather forecast.",
+      "license_information": ""
+    },
+    {
+      "id": 45045,
+      "name": "15 day weather forecast",
+      "status": "",
+      "offering_status": "Commercial Use",
+      "description_short": "Data layers from The Weather Company, an IBM Business.",
+      "license_information": ""
+    },
+    {
+      "id": 41201,
+      "name": "Atmospheric weather test",
+      "status": "",
+      "offering_status": "",
+      "description_short": "Short Desc",
+      "license_information": ""
+    },
+    {
+      "id": 80,
+      "name": "Bunge DTN",
+      "status": "",
+      "offering_status": "Restricted Use - Bunge Data",
+      "description_short": "DTN recorded cash prices.",
+      "license_information": ""
+    },
+    {
+      "id": 31057,
+      "name": "Bureau of Labor Statistics",
+      "status": "",
+      "offering_status": "",
+      "description_short": "Economic data of the U.S. Bureau of Labor Statistics regarding employment, inflation, and overall economic activity in the United States.",
+      "license_information": ""
+    },
+    {
+      "id": 101,
+      "name": "Census USA (vector data)",
+      "status": "",
+      "offering_status": "Commercial Use",
+      "description_short": "An authoritative source of statistical information about the populace of the United States.  Dataset coverage includes population, economy, business, income and poverty, families and living arrangements, education, employment, health and housing. The data is aggregated to administration districts, such as zip code, or county.",
+      "license_information": ""
+    },
+    {
+      "id": 44024,
+      "name": "compression test era5",
+      "status": "",
+      "offering_status": "",
+      "description_short": "Layers are used to test compression",
+      "license_information": ""
+    },
+    {
+      "id": 42386,
+      "name": "compression test sentinel2",
+      "status": "",
+      "offering_status": "",
+      "description_short": "Layers are used to test compression",
+      "license_information": ""
+    },
+    {
+      "id": 377,
+      "name": "Country Coronavirus (COVID 19)",
+      "status": "",
+      "offering_status": "",
+      "description_short": "Global spread of COVID-19 (or the so-called coronavirus) on country-level.",
+      "license_information": ""
+    },
+    {
+      "id": 14906,
+      "name": "ECMWF derived coarse",
+      "status": "",
+      "offering_status": "",
+      "description_short": "",
+      "license_information": ""
+    },
+    {
+      "id": 5734,
+      "name": "ECMWF HiRes",
+      "status": "",
+      "offering_status": "",
+      "description_short": "",
+      "license_information": ""
+    },
+    {
+      "id": 21800,
+      "name": "esa sentinel 1",
+      "status": "",
+      "offering_status": "",
+      "description_short": "",
+      "license_information": ""
+    },
+    {
+      "id": 176,
+      "name": "ESA Sentinel 2 L1C",
+      "status": "",
+      "offering_status": "",
+      "description_short": "",
+      "license_information": ""
+    },
+    {
+      "id": 177,
+      "name": "ESA Sentinel 2 L2A",
+      "status": "",
+      "offering_status": "",
+      "description_short": "",
+      "license_information": ""
+    },
+    {
+      "id": 38101,
+      "name": "ESA Sentinel 5P L2",
+      "status": "",
+      "offering_status": "",
+      "description_short": "Sentinel 5P Tropomi measurement of ozone, methane, formaldehyde, aerosol, carbon monoxide, NO2 and SO2 in the atmosphere ",
+      "license_information": ""
+    },
+    {
+      "id": 252,
+      "name": "GOES 16",
+      "status": "",
+      "offering_status": "Commercial Use",
+      "description_short": "",
+      "license_information": ""
+    },
+    {
+      "id": 62818,
+      "name": "GroupTestDataset",
+      "status": "",
+      "offering_status": "Commercial Use",
+      "description_short": "",
+      "license_information": ""
+    },
+    {
+      "id": 63,
+      "name": "High resolution aerial imagery (USDA NAIP)",
+      "status": "",
+      "offering_status": "Commercial Use",
+      "description_short": "",
+      "license_information": ""
+    },
+    {
+      "id": 38,
+      "name": "IBM AG Analytics Soil Moisture",
+      "status": "",
+      "offering_status": "",
+      "description_short": "",
+      "license_information": ""
+    },
+    {
+      "id": 22487,
+      "name": "Medical Infrastructure",
+      "status": "",
+      "offering_status": "",
+      "description_short": "",
+      "license_information": ""
+    },
+    {
+      "id": 273,
+      "name": "NASA Landsat8 L1",
+      "status": "",
+      "offering_status": "Commercial Use",
+      "description_short": "",
+      "license_information": ""
+    },
+    {
+      "id": 179,
+      "name": "Near real time earth observations (NASA LANCE)",
+      "status": "",
+      "offering_status": "Commercial Use",
+      "description_short": "Near real time (NRT) data products issued by NASA's Earth Observing System (EOS) to support users to monitor and react to natural and man-made phenomena.",
+      "license_information": ""
+    },
+    {
+      "id": 39767,
+      "name": "OG Well pads",
+      "status": "",
+      "offering_status": "",
+      "description_short": "Location and well pad operators information, standardized globally to track flaring,venting and fugitive methane emission",
+      "license_information": ""
+    },
+    {
+      "id": 999,
+      "name": "PAIRS Uploader GeoTIFF test",
+      "status": "",
+      "offering_status": "Commercial Use",
+      "description_short": "",
+      "license_information": ""
+    },
+    {
+      "id": 996,
+      "name": "PAIRS Uploader HDF4 test",
+      "status": "",
+      "offering_status": "",
+      "description_short": "",
+      "license_information": ""
+    },
+    {
+      "id": 997,
+      "name": "PAIRS Uploader JPEG2000 test",
+      "status": "",
+      "offering_status": "",
+      "description_short": "",
+      "license_information": ""
+    },
+    {
+      "id": 998,
+      "name": "PAIRS Uploader NetCDF test",
+      "status": "",
+      "offering_status": "",
+      "description_short": "",
+      "license_information": ""
+    },
+    {
+      "id": 271,
+      "name": "Solar forecast (internal)",
+      "status": "",
+      "offering_status": "Commercial Use",
+      "description_short": "A set of solar forecast models, or intermediate datasets in support of the solar forecast dataset",
+      "license_information": ""
+    },
+    {
+      "id": 376,
+      "name": "State Coronavirus (COVID 19)",
+      "status": "",
+      "offering_status": "",
+      "description_short": "Spread of COVID-19 (or the so-called coronavirus) on a state or province level.",
+      "license_information": ""
+    },
+    {
+      "id": 51920,
+      "name": "TEMP TEST DATASET",
+      "status": "",
+      "offering_status": "",
+      "description_short": "",
+      "license_information": ""
+    },
+    {
+      "id": 56154,
+      "name": "TEST Bunge DTN",
+      "status": "",
+      "offering_status": "",
+      "description_short": "",
+      "license_information": ""
+    },
+    {
+      "id": 58427,
+      "name": "TestDSRefreshDel22222",
+      "status": "",
+      "offering_status": "",
+      "description_short": "",
+      "license_information": ""
+    },
+    {
+      "id": 46683,
+      "name": "TEST (ECMWF) (ensemble)",
+      "status": "",
+      "offering_status": "",
+      "description_short": "",
+      "license_information": ""
+    },
+    {
+      "id": 3763,
+      "name": "Test Overview",
+      "status": "",
+      "offering_status": "",
+      "description_short": "",
+      "license_information": ""
+    },
+    {
+      "id": 30937,
+      "name": "Test overview V2",
+      "status": "",
+      "offering_status": "",
+      "description_short": "",
+      "license_information": ""
+    },
+    {
+      "id": 33581,
+      "name": "testshort",
+      "status": "",
+      "offering_status": "",
+      "description_short": "",
+      "license_information": ""
+    },
+    {
+      "id": 157,
+      "name": "TWC gCOD Data",
+      "status": "",
+      "offering_status": "Commercial Use",
+      "description_short": "",
+      "license_information": ""
+    },
+    {
+      "id": 51754,
+      "name": "TWC Seasonal Weather Forecast",
+      "status": "",
+      "offering_status": "",
+      "description_short": "Data layers for seasonal forecasts across the globe from The Weather Company, an IBM Business.",
+      "license_information": ""
+    },
+    {
+      "id": 15840,
+      "name": "Unified Weather Test",
+      "status": "",
+      "offering_status": "",
+      "description_short": "Daily aggregated ECMWF historical reanalysis data from 1979 to recent, and then ECMWF high resolution medium range 10 days ahead forecast",
+      "license_information": ""
+    },
+    {
+      "id": 29324,
+      "name": "Watson Discovery News Analysis",
+      "status": "",
+      "offering_status": "",
+      "description_short": "",
+      "license_information": ""
+    },
+    {
+      "id": 14656,
+      "name": "Wildfire risk potential",
+      "status": "",
+      "offering_status": "",
+      "description_short": "Wildfire Hazard Potential can help to inform evaluations of wildfire risk or prioritization of fuels management needs across very large landscapes.Is is calculated by the  USDA Forest Service and by USGS.",
+      "license_information": ""
+    },
+    {
+      "id": 18198,
+      "name": "Wildland fire (USFS)",
+      "status": "",
+      "offering_status": "",
+      "description_short": "",
+      "license_information": ""
+    }
+  ]
+}
